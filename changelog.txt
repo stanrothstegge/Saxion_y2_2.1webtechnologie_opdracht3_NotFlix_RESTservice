@@ -1,0 +1,9 @@
+server.js
+- require bodyparser
+- regel 28 tm 33
+
+notflixrouter.js
+
+-   require jwt
+-   require config
+-   authenticate methode
